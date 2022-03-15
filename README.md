@@ -5,4 +5,4 @@ https://github.com/jamesgeorge007/GitHub-Mate-Desktop
 
 
 
-Modification: Removed bugs due to sloppy code. 
+Modification: Removed bugs present in the code. 
